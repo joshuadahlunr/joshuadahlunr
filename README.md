@@ -44,6 +44,7 @@ I make game engines on the side—taking breaks from programming language resear
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joshua-dahl-2b1a4691/)
+Or add me on Discord: jdbener
 
 ---
 
