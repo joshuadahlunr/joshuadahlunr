@@ -25,7 +25,7 @@ Exploring the intersection of **Graphics** and **Programming Languages**
 
 Here are some of my favorite projects—check them out!
 
-- **[DOIR](https://github.com/doir-lang/DOIR/blob/ECS4Compilers)**  
+- **[DOIR (ECS for Compilers)](https://github.com/doir-lang/DOIR/blob/ECS4Compilers)**  
 - **[Mizu](https://github.com/doir-lang/Mizu)**  
 - **[UFCS](https://github.com/joshuadahlunr/ufcs)**
 - **[Axis Lock](https://jdbener.itch.io/axis-lock)**
