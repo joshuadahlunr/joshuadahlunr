@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com/?lines=Instructor%20%7C%20Research%20Assistant;Graphics%20%2B%20Programming%20Languages;Building%20expressive%2C%20stylized%20interactive%20worlds;Game%20engine%20tinkerer%20on%20the%20side;Reach%20out%20if%20you%20want%20to%20collaborate!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=520&height=45"
+      src="https://readme-typing-svg.herokuapp.com/?lines=Instructor%20%7C%20Research%20Assistant;Graphics%20%2B%20Programming%20Languages;Game%20engine%20tinkerer%20on%20the%20side;Reach%20out%20if%20you%20want%20to%20collaborate!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=520&height=45"
       alt="Typing SVG"
     />
   </a>
