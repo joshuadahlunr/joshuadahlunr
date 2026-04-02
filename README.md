@@ -31,7 +31,7 @@
 
 - 🎓 Instructor and Research Assistant exploring the intersection of **computer graphics** and **programming languages**.
 - 💡 Interested in how language design can empower creatives to build **expressive, stylized, interactive worlds**.
-- 🎮 I also build and experiment with **game engines** and rendering workflows focused on visual style.
+- 🎮 I also build and experiment with **game engines** and rendering workflows focused on stylization.
 
 ---
 
