@@ -91,15 +91,3 @@ I make game engines on the side—taking breaks from programming language resear
 </p>
 
 ---
-
-### Profile Stats
-![](https://github-readme-stats.vercel.app/api?username=joshuadahlunr&theme=algolia&show_icons=true&count_private=true&include_all_commits=true)
-
-### Streak
-![](http://github-readme-streak-stats.herokuapp.com?user=joshuadahlunr&theme=dracula)
-
-### Activity Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=joshuadahlunr&theme=react-dark)
-
-### Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs?username=joshuadahlunr&layout=compact&theme=radical)
